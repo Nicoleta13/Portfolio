@@ -132,7 +132,7 @@ a.social {
   height: 30px;
   background-size: 30px 30px;
   opacity: 1;
-  transition: all 1s;
+  transition: all 5s;
 }
 
 a.twitter {
