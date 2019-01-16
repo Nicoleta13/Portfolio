@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .jumbotron {
   background-image: url('../img/wallpaper.jpg');
   background-size:cover;
